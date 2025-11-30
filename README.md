@@ -1,4 +1,4 @@
-# VisionShield-GunDetect 🔫🛡️  
+# VisionShield-GunDetect  
 ### Real-Time Firearm Detection System using YOLOv10 & Custom Training  
 
 This project is a **cybersecurity + computer vision** solution designed to automatically detect **guns/weapons** in images and video streams.  
@@ -8,7 +8,7 @@ Built and trained using **YOLOv10**, custom dataset labeling, and tested on both
 
 ---
 
-## 🚨 Project Overview
+##  Project Overview
 
 Modern security systems need automated tools to detect threats in real-time.  
 This project solves that by using a trained YOLO model to:
@@ -27,3 +27,4 @@ This is ideal for:
 - Security automation research  
 - Computer Vision + AI academic projects  
 
+Dataset and test images and videos are available on my kaggle : https://www.kaggle.com/sabahatjahangir
